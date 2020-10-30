@@ -1,0 +1,20 @@
+//saurabh shukla
+
+//https://career.guru99.com/top-50-oops-interview-questions/
+
+->virtual functions(function overriding,early binding,late binding);
+
+->inheritance
+	->definition
+	->types of inheriatnce
+	->visibility modes
+
+->access specifier :-> learn which one can use the data members present in public,protected and private:-> for eg:->
+protected characteristics will be used by derived class ,its own class and friend function;
+private characteristics will be used by its own class and friend function;
+public can be used by anyone;	//https://www.geeksforgeeks.org/access-modifiers-in-c/
+
+
+->abstract class (using pure virtual function in c++)
+
+->this pointer (when member function is called by the object then "this" pointer is also created in that function memory which refers to the caller object)
