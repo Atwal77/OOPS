@@ -18,3 +18,16 @@ public can be used by anyone;	//https://www.geeksforgeeks.org/access-modifiers-i
 ->abstract class (using pure virtual function in c++)
 
 ->this pointer (when member function is called by the object then "this" pointer is also created in that function memory which refers to the caller object)
+
+->Static memory allocation vs Dynamic memory allocation (new and delete)
+	
+	->static (memory created by sma has a certain scope->"{}" but dma dont)
+	->we had to delete the dma memory manually using delete keyword;
+	->the memory that had to be created for sma variable is decided at compile time but for dma it is decided at run time;
+
+
+-> method overriding,method hiding, method overloading
+
+->Polymorphism implemented by:->
+			
+				Function overloading, operator overloading, virtual function;
