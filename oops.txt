@@ -19,6 +19,7 @@ public can be used by anyone;	//https://www.geeksforgeeks.org/access-modifiers-i
 
 ->this pointer (when member function is called by the object then "this" pointer is also created in that function memory which refers to the caller object)
 
+
 ->Static memory allocation vs Dynamic memory allocation (new and delete)
 	
 	->static (memory created by sma has a certain scope->"{}" but dma dont)
